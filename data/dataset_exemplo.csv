@@ -1,0 +1,21 @@
+﻿nome,marca,modelo,tipo,preco,status
+Galaxy S23,Samsung,SM-S911B,Smartphone,4299.00,ativo
+iPhone 14,Apple,A2882,Smartphone,5899.00,ativo
+Moto G73,Motorola,XT2345,Smartphone,1599.00,ativo
+Redmi Note 12,Xiaomi,22101316G,Smartphone,1299.00,ativo
+Zenfone 10,ASUS,AI2302,Smartphone,3499.00,ativo
+Galaxy A54,Samsung,SM-A546E,Smartphone,2299.00,ativo
+iPhone 13,Apple,A2622,Smartphone,4899.00,ativo
+Moto Edge 40,Motorola,XT2305,Smartphone,2799.00,ativo
+POCO X5 Pro,Xiaomi,22101320G,Smartphone,1699.00,ativo
+ROG Phone 7,ASUS,AI2205,Smartphone,5999.00,ativo
+Galaxy Tab S9,Samsung,SM-X710,Tablet,5499.00,ativo
+iPad 10,Apple,A2757,Tablet,4299.00,ativo
+Moto Tab G70,Motorola,ZAAC,Tablet,1899.00,ativo
+Redmi Pad,Xiaomi,22081283G,Tablet,1599.00,ativo
+Galaxy Watch 6,Samsung,SM-R930,Smartwatch,2199.00,ativo
+Apple Watch SE,Apple,A2723,Smartwatch,2499.00,ativo
+Mi Band 8,Xiaomi,BHR7842,Smartwatch,399.00,ativo
+Galaxy Buds 2,Samsung,SM-R177,Headphone,799.00,ativo
+AirPods Pro,Apple,A2699,Headphone,2199.00,ativo
+Redmi Buds 4,Xiaomi,BHR6758,Headphone,299.00,quebrado
